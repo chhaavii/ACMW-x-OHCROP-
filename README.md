@@ -55,6 +55,7 @@ A generative model trained on a fashion dataset to produce a coherent, themed fa
 
 ### Challenge 3 — AI Poster Designer
 **Type:** Core Creative | **Points:** 20
+**I was not able to attach the file directly to github , I have uploaded a downloaded file **
 
 A satirical retro-vintage poster series featuring **Ron Weasley** from the Harry Potter universe — playing on internet meme culture around the character (the chess sacrifice, Scabbers being a war criminal, spider phobia, and his perpetually underrated heroism). Three initial concepts were generated and refined into a final cohesive poster.
 
@@ -63,9 +64,9 @@ A satirical retro-vintage poster series featuring **Ron Weasley** from the Harry
 **The three concepts:**
 | File | Concept |
 |------|---------|
-| `ron_weasley_poster_concept_1.svg` | "Wanted: A Weasley" — Classic propaganda recruitment poster |
-| `ron_weasley_poster_concept_2.svg` | "The Classified Dossier" — Art deco Ministry of Magic spy file |
-| `ron_weasley_final_poster.svg` | "Not the Chosen One" — Grand portrait poster **(FINAL)** |
+| `ron_weasley_1.svg` | "Wanted: A Weasley" — Classic propaganda recruitment poster |
+| `ron_weasley_2.svg` | "The Classified Dossier" — Art deco Ministry of Magic spy file |
+| `ron_weasley_3.svg` | "Not the Chosen One" — Grand portrait poster **(FINAL)** |
 
 **What was done:**
 - Defined concept and mood (satirical retro / vintage)
