@@ -11,15 +11,11 @@
 ```
 ACMW-x-OHCROP-/
 │
-├── Challenge1_Image_Repair_Style_Transform.ipynb   # Challenge 1 notebook
-├── Challenge1.png                                   # Challenge 1 visual output
+├── Challenge1_Image_Repair_Style_Transform.ipynb   # Challenge 1 notebook                             
 │
 ├── Challenge2_AI_Fashion_Designer.ipynb             # Challenge 2 notebook
-├── challeneg2.png                                   # Challenge 2 visual output
 │
-├── Challenge3_AI_Poster_Designer (1).ipynb          # Challenge 3 notebook
-├── ron_weasley_poster_concept_1.svg                 # Poster concept A
-├── ron_weasley_poster_concept_2.svg                 # Poster concept B
+
 └── ron_weasley_final_poster.svg                     # Final poster (standalone)
 ```
 
@@ -38,7 +34,7 @@ An image degradation and reconstruction pipeline using generative techniques. A 
 - Used a generative model to reconstruct the degraded image
 - Applied style transformation to the repaired output
 
-**Deliverables:** `Challenge1_Image_Repair_Style_Transform.ipynb` · `Challenge1.png`
+**Deliverables:** `Challenge1_Image_Repair_Style_Transform.ipynb`
 
 ---
 
@@ -53,7 +49,7 @@ A generative model trained on a fashion dataset to produce a coherent, themed fa
 - Explored the latent space via sampling and interpolation
 - Generated 3–5 visually consistent outfit designs
 
-**Deliverables:** `Challenge2_AI_Fashion_Designer.ipynb` · `challeneg2.png`
+**Deliverables:** `Challenge2_AI_Fashion_Designer.ipynb` 
 
 ---
 
@@ -77,7 +73,7 @@ A satirical retro-vintage poster series featuring **Ron Weasley** from the Harry
 - Refined outputs into a final cohesive poster
 - Exported final poster as a standalone `.svg` file
 
-**Deliverables:** `Challenge3_AI_Poster_Designer (1).ipynb` · `ron_weasley_poster_concept_1.svg` · `ron_weasley_poster_concept_2.svg` · `ron_weasley_final_poster.svg`
+**Deliverables:** `Challenge3_AI_Poster_Designer (1).ipynb` 
 
 ---
 
