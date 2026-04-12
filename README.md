@@ -56,6 +56,7 @@ A generative model trained on a fashion dataset to produce a coherent, themed fa
 ### Challenge 3 — AI Poster Designer
 **Type:** Core Creative | **Points:** 20
 **I was not able to attach the file directly to github , I have uploaded a downloaded file **
+* follow this link https://colab.research.google.com/drive/1DjgVQsI5zOwBIz6zgTYHs8Xa-8uBT0hp?usp=sharing *
 
 A satirical retro-vintage poster series featuring **Ron Weasley** from the Harry Potter universe — playing on internet meme culture around the character (the chess sacrifice, Scabbers being a war criminal, spider phobia, and his perpetually underrated heroism). Three initial concepts were generated and refined into a final cohesive poster.
 
